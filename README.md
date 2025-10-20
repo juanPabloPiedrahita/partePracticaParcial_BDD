@@ -14,10 +14,10 @@ Se busca que el estudiante aplique conceptos de modelado, normalización, diseñ
 | `Video#1.mkv`                     | Grabación demostrativa del funcionamiento.                |
 
 ## Tecnologías y herramientas  
-- Sistema gestor de base de datos: *por ejemplo* PostgreSQL / MySQL (ajusta según tu entorno)  
+- Sistema gestor de base de datos: *por ejemplo* PostgreSQL
 - SQL estándar para DDL y DML  
 - Git/GitHub para control de versiones  
-- Opcional: cliente gráfico o herramienta de consulta para comprobar resultados
+- Opcional: cliente gráfico PgAdmin
 
 ##  Instrucciones de uso  
 1. Clona el repositorio:
